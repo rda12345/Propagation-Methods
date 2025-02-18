@@ -6,5 +6,5 @@ It contains:
 2. 'Imaginary' time Chebychev propagation method, i.e. v(t) = exp(O*t)*v(0).
 3. 'Real' Chebychev propagation method, i.e. v(t) = exp(-i*O*t)*v(0).
 
-Here, , O is a a differential linear operator, v(0) is the vector at initial time and v(t) is a vector at time t.
+Here, O is a a differential linear operator, v(0) is the vector at initial time and v(t) is a vector at time t.
 

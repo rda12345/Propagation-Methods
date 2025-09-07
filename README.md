@@ -1,6 +1,7 @@
 # Propagation-Methods
 The repository contains an example of a linear propagation methods.
-The methods are illustrated by the propagation of a 1D quantum harmonic oscillator in Schrod_eq_solver_HO.py.
+The methods are illustrated by the propagation of a 1D quantum harmonic oscillator in Schrod_eq_solver_HO.py,
+and 1D diffusion model in diffusion_eq_solver.py
 
 It contains:
 1. 1D and 2D fft based differentiation methods

@@ -3,6 +3,9 @@
 """
 Evaluates the coefficients of the Chebychev series of exp(-i*O*dt/hbar),
 where O is a linear differential operator and i = sqrt(-1) 
+Based on the paper
+R. Kosloff, Propagation Methods for Quantum Molecular Dynamics,
+Annu. Rev. Phys. Chem., 45, 145-178 (1994)
 """
 import pylab,scipy,numpy
 
